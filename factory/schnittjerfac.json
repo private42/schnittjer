@@ -1,0 +1,9 @@
+{
+	"name": "schnittjerfac",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4a560e3c-1faf-4430-91a1-d0ff45ae0217",
+		"tenantId": "3f32c965-40e7-4c15-bf05-c027caccf011"
+	}
+}
